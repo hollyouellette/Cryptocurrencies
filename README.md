@@ -10,15 +10,15 @@ The following four project deliverables for this analysis can be found in the [c
 
    **_Deliverable 1_**: 
    
-   In the deliverable the dataset was preprocessed in order to performance Principal Component Analysis.
+   In this deliverable, the dataset was preprocessed in order to performance Principal Component Analysis.
    
    **_Deliverable 2_**: 
    
-   A Principath Comoponenet Analysis algorithm was applied to reduce the dimensions of the DataFrame to three principal components. These dimensions were then placed into a new DataFrame.
+   A Principal Component Analysis algorithm was applied to reduce the dimensions of the DataFrame to three principal components. These dimensions were then placed into a new DataFrame.
    
    **_Deliverable 3_**: 
    
-   Using hvPlot, in this deliveable an elbow curve was created to find the best value for K from the previously created DataFrame. Once the K value was identified, a K-means algorithm was run to predict the K clusters for the cryptocurrencies data.
+   Using hvPlot, in this deliverable an elbow curve was created to find the best value for K from the previously created DataFrame. Once the K value was identified, a K-means algorithm was run to predict the K clusters for the cryptocurrencies data.
    
   **_Deliverable 4_**: 
   
