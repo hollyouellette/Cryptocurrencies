@@ -10,7 +10,7 @@ The following four project deliverables for this analysis can be found in the [c
 
    **_Deliverable 1_**: 
    
-   In this deliverable, the dataset was preprocessed in order to performance Principal Component Analysis.
+   In this deliverable, the dataset was preprocessed in order to perform Principal Component Analysis.
    
    **_Deliverable 2_**: 
    
